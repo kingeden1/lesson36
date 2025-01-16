@@ -1,0 +1,120 @@
+.pimg1, .pimg2, .pimg3
+
+{
+
+position: relative;
+
+opacity: 0.7;
+
+background-position: center;
+
+background-size: cover;
+
+background-repeat: no-repeat;
+
+background-attachment: fixed;
+
+}
+
+.pimg1
+
+{
+
+background-image: url("blue3.png");
+
+min-height: 400px;
+
+}
+
+.pimg2
+
+{
+
+background-image: url("rainbow-bg.jpg");
+
+min-height: 400px;
+
+}
+
+.pimg3
+
+{
+
+background-image: url("nature-bg.avif");
+
+min-height: 400px;
+
+}
+
+.section
+
+{
+
+text-align: center;
+
+padding: 50px 80px;
+
+}
+
+.section-dark
+
+{
+
+background-color: black;
+
+color: antiquewhite;
+
+}
+
+.section-light
+
+{
+
+background-color: gainsboro;
+
+color: black;
+
+}
+
+.ptext
+
+{
+
+top:50%;
+
+position: absolute;
+
+width: 100%;
+
+text-align: center;
+
+color: black;
+
+font-size: 27px;
+
+letter-spacing: 5px;
+
+text-transform: uppercase;
+
+}
+
+.ptext .border
+
+{
+
+background-color: black;
+
+color: azure;
+
+padding: 20px;
+
+}
+
+.ptext .border .trans
+
+{
+
+background-color: transparent;
+
+}
+
